@@ -7,6 +7,12 @@
       "ssl": false
     },
     {
+      "name": "Amsterdam EU Public Node",
+      "url": "turtlenode.co.uk",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "aneki's Aussie Node",
       "url": "node.turtlecoin.club",
       "port": 11898,
